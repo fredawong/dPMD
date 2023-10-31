@@ -8,5 +8,7 @@ The source codes of the dPMD analysis.
 
 For any questions, please feel free to contact:
 Freda Wang, lywang@smail.nju.edu.cn
+
 Y Lin, linyuan@nju.edu.cn
+
 JJ Geng, jjgeng@nju.edu.cn
